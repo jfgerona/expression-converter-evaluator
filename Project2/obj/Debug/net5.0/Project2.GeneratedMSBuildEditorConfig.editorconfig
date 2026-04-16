@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Project2
+build_property.ProjectDir = C:\Users\jfger\OneDrive\Documents\School\Fanshawe\Level 5\C# Advanced Topics INFO-5101\Project 2\Project2_Group_26\Project2\
